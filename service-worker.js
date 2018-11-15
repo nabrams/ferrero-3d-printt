@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nabrams.github.io/precache-manifest.8c40b16f804ef34ae65c59af322ab8b9.js"
+  "/kinder-exp/precache-manifest.96d93afeeb7dd7af94c1be46235336bc.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/nabrams.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/kinder-exp/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

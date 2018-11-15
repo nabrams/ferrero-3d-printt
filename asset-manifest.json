@@ -1,15 +1,15 @@
 {
-  "main.css": "/nabrams.github.io/static/css/main.63078f32.chunk.css",
-  "main.js": "/nabrams.github.io/static/js/main.8e449391.chunk.js",
-  "main.js.map": "/nabrams.github.io/static/js/main.8e449391.chunk.js.map",
-  "static/js/1.2dd891c4.chunk.js": "/nabrams.github.io/static/js/1.2dd891c4.chunk.js",
-  "static/js/1.2dd891c4.chunk.js.map": "/nabrams.github.io/static/js/1.2dd891c4.chunk.js.map",
-  "runtime~main.js": "/nabrams.github.io/static/js/runtime~main.952413f3.js",
-  "runtime~main.js.map": "/nabrams.github.io/static/js/runtime~main.952413f3.js.map",
-  "static/css/main.63078f32.chunk.css.map": "/nabrams.github.io/static/css/main.63078f32.chunk.css.map",
-  "static/media/logo.jpeg": "/nabrams.github.io/static/media/logo.6a62d14e.jpeg",
-  "static/media/App.css": "/nabrams.github.io/static/media/3d.2959f45d.jpeg",
-  "index.html": "/nabrams.github.io/index.html",
-  "precache-manifest.8c40b16f804ef34ae65c59af322ab8b9.js": "/nabrams.github.io/precache-manifest.8c40b16f804ef34ae65c59af322ab8b9.js",
-  "service-worker.js": "/nabrams.github.io/service-worker.js"
+  "main.css": "/kinder-exp/static/css/main.8d96f1cf.chunk.css",
+  "main.js": "/kinder-exp/static/js/main.682c98a9.chunk.js",
+  "main.js.map": "/kinder-exp/static/js/main.682c98a9.chunk.js.map",
+  "static/js/1.2dd891c4.chunk.js": "/kinder-exp/static/js/1.2dd891c4.chunk.js",
+  "static/js/1.2dd891c4.chunk.js.map": "/kinder-exp/static/js/1.2dd891c4.chunk.js.map",
+  "runtime~main.js": "/kinder-exp/static/js/runtime~main.3199ac64.js",
+  "runtime~main.js.map": "/kinder-exp/static/js/runtime~main.3199ac64.js.map",
+  "static/css/main.8d96f1cf.chunk.css.map": "/kinder-exp/static/css/main.8d96f1cf.chunk.css.map",
+  "static/media/logo.jpeg": "/kinder-exp/static/media/logo.6a62d14e.jpeg",
+  "static/media/App.css": "/kinder-exp/static/media/3d.2959f45d.jpeg",
+  "index.html": "/kinder-exp/index.html",
+  "precache-manifest.96d93afeeb7dd7af94c1be46235336bc.js": "/kinder-exp/precache-manifest.96d93afeeb7dd7af94c1be46235336bc.js",
+  "service-worker.js": "/kinder-exp/service-worker.js"
 }
