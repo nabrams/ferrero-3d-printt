@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.01d8e7f3.chunk.css",
-  "main.js": "/static/js/main.e59bdcad.chunk.js",
-  "main.js.map": "/static/js/main.e59bdcad.chunk.js.map",
-  "static/js/1.2dd891c4.chunk.js": "/static/js/1.2dd891c4.chunk.js",
-  "static/js/1.2dd891c4.chunk.js.map": "/static/js/1.2dd891c4.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.01d8e7f3.chunk.css.map": "/static/css/main.01d8e7f3.chunk.css.map",
-  "static/media/logo.jpeg": "/static/media/logo.6a62d14e.jpeg",
-  "static/media/App.css": "/static/media/3d.2959f45d.jpeg",
-  "index.html": "/index.html",
-  "precache-manifest.1535c2d27f1b76599193a4cd69f96d6c.js": "/precache-manifest.1535c2d27f1b76599193a4cd69f96d6c.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/kinder-exp/static/css/main.8d96f1cf.chunk.css",
+  "main.js": "/kinder-exp/static/js/main.682c98a9.chunk.js",
+  "main.js.map": "/kinder-exp/static/js/main.682c98a9.chunk.js.map",
+  "static/js/1.2dd891c4.chunk.js": "/kinder-exp/static/js/1.2dd891c4.chunk.js",
+  "static/js/1.2dd891c4.chunk.js.map": "/kinder-exp/static/js/1.2dd891c4.chunk.js.map",
+  "runtime~main.js": "/kinder-exp/static/js/runtime~main.3199ac64.js",
+  "runtime~main.js.map": "/kinder-exp/static/js/runtime~main.3199ac64.js.map",
+  "static/css/main.8d96f1cf.chunk.css.map": "/kinder-exp/static/css/main.8d96f1cf.chunk.css.map",
+  "static/media/logo.jpeg": "/kinder-exp/static/media/logo.6a62d14e.jpeg",
+  "static/media/App.css": "/kinder-exp/static/media/3d.2959f45d.jpeg",
+  "index.html": "/kinder-exp/index.html",
+  "precache-manifest.96d93afeeb7dd7af94c1be46235336bc.js": "/kinder-exp/precache-manifest.96d93afeeb7dd7af94c1be46235336bc.js",
+  "service-worker.js": "/kinder-exp/service-worker.js"
 }
